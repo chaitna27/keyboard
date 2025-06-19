@@ -24,8 +24,11 @@ A simple and interactive virtual keyboard built using **HTML**, **CSS**, and **J
 ## 📁 Project Structure
 
 ├── index.html # Main HTML file
+
 ├── style.css # Styling and layout
+
 ├── script.js # Keyboard logic and interactivity
+
 └── README.md # Project overview
 
 
